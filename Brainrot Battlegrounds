@@ -1,0 +1,3 @@
+--sub ScriptTrol and like
+
+loadstring(game:HttpGet("https://github.com/troll24663/script/blob/main/Brainrot%20Battlegrounds"))()
