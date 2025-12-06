@@ -1,0 +1,4 @@
+-- By ScriptTrol 
+-- Sub My YouTube Channel
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/troll24663/script/refs/heads/main/The%20Minefields"))()
