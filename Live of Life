@@ -1,0 +1,4 @@
+-- by ScriptTrol
+-- bro in discord dev think this is a "bug"💀
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/troll24663/script/refs/heads/main/Live%20of%20Life"))()
