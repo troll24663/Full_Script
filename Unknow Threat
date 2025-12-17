@@ -1,5 +1,6 @@
 -- sub ScriptTrol
 -- this game wannna need 75 day acc
 -- i sry this game creator
+-- waring : this script not any anti ban or anti kick, so dont show u "power" in pubilc server, becuase u will get ban. damn my one acc get ban
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/troll24663/script/refs/heads/main/Unknow%20Threat"))()
