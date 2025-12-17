@@ -1,4 +1,5 @@
 -- sub ScriptTrol
 -- this game wannna need 75 day acc
+-- i sry this game creator
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/troll24663/script/refs/heads/main/Unknow%20Threat"))()
