@@ -1,0 +1,4 @@
+-- SUB ScriptTrol IN YOUTUBE
+-- this script is in beta
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/troll24663/script/refs/heads/main/Martial%20Grounds"))()
